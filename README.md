@@ -1,1 +1,1 @@
-# hello-world
+Hello world my name is Camdyn and I'm 12, I know what your thinking,"OMG he's 12 and he wants to be a video game developer.Well the truth is... YES, I really want to be a video game developer.I thought what greater way to start than learning about code. Also in my middle school I have a 95 average and we mostly write code.
